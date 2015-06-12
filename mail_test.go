@@ -7,7 +7,7 @@ import (
 
 func TestSend(t *testing.T) {
 	user := "qiang.sheng@godinsec.com"
-	password := "xiang19930805"
+	password := ""
 	host := "smtp.exmail.qq.com:25"
 	to := "qiang.sheng@godinsec.com"
 
